@@ -1,0 +1,31 @@
+h1{
+background-color: orange; 
+height: 50;
+text-allign: center;
+padding: 20px;
+
+}
+
+h1 a{
+	text-decoration: none;
+}
+
+.content {
+background-color: grey;	
+}
+
+.puppy {
+	height: 100px;
+	background-color: green;
+	width: 50%;
+	float: left;
+
+ul{	
+	clear: both;
+
+}
+
+li{
+	background-color: blue; list-style-type: square;
+
+}
